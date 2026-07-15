@@ -1,6 +1,6 @@
 # Juncheng Wang Academic Website
 
-A lightweight, English-language academic website inspired by the clean structure of jianzou.me, while using an original layout and visual identity.
+A lightweight, English-language academic website.
 
 ## Files
 
@@ -15,7 +15,7 @@ A lightweight, English-language academic website inspired by the clean structure
 Search the HTML files for these items and edit as needed:
 
 1. Current role or degree status in the homepage biography.
-2. Email, Google Scholar, ORCID, GitHub, or CV links if you want to add them.
+2. GitHub.
 3. Research descriptions before making unpublished project details public.
 4. Future publications can be added by duplicating the `<article class="publication">` block in `publications.html`.
 
